@@ -1,0 +1,15 @@
+[package]
+name = "choose-your-own-odyssey"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+license = "Unlicence"
+keywords = ["school", "cyoa", "choose-your-own-adventure"]
+categories = ["utilities"]
+description = "An Oddessy choose your own adventure!"
+repository = "https://git.randomairborne.dev/gxhut/oddessy.git"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+text_io = "0.1.9"
