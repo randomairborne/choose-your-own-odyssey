@@ -1,9 +1,4 @@
-#![warn(
-    clippy::all,
-    clippy::pedantic,
-    clippy::nursery,
-    clippy::cargo
-)]
+#![warn(clippy::all, clippy::pedantic, clippy::nursery, clippy::cargo)]
 
 mod choose_your_own_adventure;
 
